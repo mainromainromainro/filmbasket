@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+playwright
+pydantic>=2
+pandas
+tenacity
+rapidfuzz
+python-dotenv
+lxml
+pytest

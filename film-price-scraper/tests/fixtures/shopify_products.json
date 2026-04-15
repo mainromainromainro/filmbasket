@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "title": "Kodak Gold 200 3-pack 35mm",
+      "handle": "kodak-gold-200-3-pack",
+      "available": true,
+      "variants": [
+        {
+          "title": "36 exp",
+          "price": "€28,99",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Ilford HP5+ 400 35mm",
+      "handle": "ilford-hp5-400",
+      "available": true,
+      "variants": [
+        {
+          "title": "24 exp",
+          "price": "12.50",
+          "available": false
+        }
+      ]
+    },
+    {
+      "title": "Camera Strap",
+      "handle": "camera-strap",
+      "available": true,
+      "variants": [
+        {
+          "title": "Default",
+          "price": "9.99",
+          "available": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+merchant_name,country,base_url,category_url,notes
+foto fachversand,Austria,https://www.fotofachversand.com,https://www.fotofachversand.com/Filme,
+retro camera,Belgium,https://www.retrocamera.be,https://www.retrocamera.be/nl/26-35mm-film,
+foto skoda,Czech Republic,https://www.fotoskoda.cz,https://www.fotoskoda.cz,"Prices in CZK, convert to EUR"
+kamerastore,Finland,https://kamerastore.com,https://kamerastore.com/products/35mm-films/,
+Filmopolis,France,https://www.filmopolis.shop,https://www.filmopolis.shop/,Very low prices
